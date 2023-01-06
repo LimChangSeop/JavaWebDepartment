@@ -15,7 +15,7 @@ class Manufacturer {
 }
 
 class Car{
-	// 제조사, Class 사용자 지정타입으로 사용 가능
+	// 제조사, Class 사용자 지정타입으로 사용 가능.
 	Manufacturer manufacturer;
 	// 외장컬러
 	String exteriorColor;
