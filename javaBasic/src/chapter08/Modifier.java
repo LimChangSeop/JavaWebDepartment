@@ -28,7 +28,7 @@ public class Modifier {
 	
 	// 외부에서 멤버변수에 접근하기 위한 방법
 	// Getter 메서드 이용
-	// 반환값 존재 O, 파라미터 받지 않음
+	// 반환값 존재 O, 파라미터 받지 않음.
 	public String getName() {
 		return this.name;
 	}
