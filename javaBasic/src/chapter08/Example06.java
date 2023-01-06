@@ -27,9 +27,9 @@ public class Example06 {
 		System.out.println(developer.name);
 		System.out.println(developer.gender);
 		System.out.println(developer.company);
-		developer.eatBreakfast(11);
-		police.eatBreakfast();
-		busDriver.eatBreakfast();
+//		developer.eatBreakfast(11);
+//		police.eatBreakfast();
+//		busDriver.eatBreakfast();
 
 	}
 
