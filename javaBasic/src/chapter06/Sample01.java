@@ -106,7 +106,7 @@ public class Sample01 {
 		return 0;
 	}
 	
-	// 게시물 세팅 메서드
+	// 게시물 세팅 메서드 
 	static void setBoard(int i) {
 		Scanner writer = new Scanner(System.in);
 		
