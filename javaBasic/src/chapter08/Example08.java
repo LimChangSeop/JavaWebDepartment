@@ -64,7 +64,5 @@ public class Example08 {
 		// 클래스 외부에서 접근 불가능.
 //		modifier.name;
 	
-		//Nemnem
-
 	}
 }
