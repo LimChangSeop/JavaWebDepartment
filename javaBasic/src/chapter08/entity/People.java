@@ -12,7 +12,7 @@ public class People {
 		this.gender = gender;
 	}
 	
-	public void eatBreakfast() {
+	void eatBreakfast() {
 		System.out.println("7시에 아침을 먹습니다.");
 	}
 }

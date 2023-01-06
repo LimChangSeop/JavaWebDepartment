@@ -11,9 +11,4 @@ public class Developer extends People{
 		super(name, gender);
 		this.company = company;
 	}
-
-	public void eatBreakfast(int i) {
-		// TODO Auto-generated method stub
-		
-	}
 }
