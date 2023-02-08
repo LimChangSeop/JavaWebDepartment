@@ -7,8 +7,9 @@ interface Props {
   setLoginView: Dispatch<React.SetStateAction<boolean>>
 }
 
-// {} : Props -> 비할당 구조화, 파괴해버리고 바로 가져다 쓰겠다는 의미
-export default function LoginCardView({ setLoginView }:Props) {
+//? {} : Props -> 비할당 구조화, 파괴해버리고 바로 가져다 쓰겠다는 의미
+export default function LoginCardView({ setLoginView }: Props) {
+
   const [showPassword, setShowPassword] = useState<boolean>(false);
 
   return (
